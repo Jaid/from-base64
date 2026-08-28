@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Jaid/from-base64.git"
+    "url": "git+https://github.com/Jaid/from-base64.git"
   },
   "scripts": {
     "test": "bun test --max-concurrency 1"
